@@ -1,3 +1,4 @@
+-- to return the largest and the smallest in the lenght in the city column 
 (
     select city , length(city) as name_length
     from station 
